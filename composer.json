@@ -1,0 +1,16 @@
+{
+    "name": "rawiwan/calculator",
+    "authors": [
+        {
+            "name": "rawiwan",
+            "email": "rawiwanp57@email.nu.ac.th"
+        }
+    ],
+    "require": {},
+    "autoload":{
+        "psr-4":{
+            "rawiwan\\calculator\\": "src/"
+            
+        }
+    }
+}
